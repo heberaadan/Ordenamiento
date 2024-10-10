@@ -1,0 +1,13 @@
+********************************
+Diego Alberto,Torres Oropeza,123456
+********************************
+Rocio,Luna Camacho,543261
+Maria Guadalupe,Rosas Juarez,334215
+********************************
+Luisa Fernanda,Robles Pacheco,803475
+********************************
+Mario,Chavez Gomez,123459
+Luis,Martinez Rodriguez,493762
+********************************
+Juan,Sanchez Lozano,486971
+********************************

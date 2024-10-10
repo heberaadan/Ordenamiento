@@ -1,0 +1,11 @@
+********************************
+Juan,Perez Perez,654321
+Diego Alberto,Torres Oropeza,123456
+********************************
+Marco,Flores Limon,305884
+Roberto Carlos,Lopez Arteaga,112948
+Eduardo,Matinez Porras,689724
+Luisa Fernanda,Robles Pacheco,803475
+********************************
+Juan,Sanchez Lozano,486971
+********************************

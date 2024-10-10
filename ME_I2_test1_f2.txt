@@ -1,0 +1,10 @@
+********************************
+Mario,Chavez Gomez,123459
+Elba,Dominguez Rosales,765463
+Marco,Flores Limon,305884
+Roberto Carlos,Lopez Arteaga,112948
+Luis,Martinez Rodriguez,493762
+Eduardo,Matinez Porras,689724
+Luisa Fernanda,Robles Pacheco,803475
+Gabriel,Tovar Talavera,384613
+********************************
